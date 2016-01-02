@@ -9,3 +9,4 @@ Hi i am jim liu, you can call me jim.
 yes, I come from china.
 OK, that's all.
 
+today is 2016.01.03. good day.
